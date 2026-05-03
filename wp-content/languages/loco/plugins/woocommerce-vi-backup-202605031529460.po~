@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2026-04-14T10:45:24+00:00\n"
-"PO-Revision-Date: 2026-05-03 13:48+0000\n"
+"PO-Revision-Date: 2026-05-03 15:24+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: vi\n"
@@ -9904,7 +9904,7 @@ msgstr ""
 #: assets/client/blocks/checkout.js:21
 #: assets/client/blocks/wc-cart-checkout-base-frontend.js:35
 msgid "Subtotal:"
-msgstr ""
+msgstr "Tạm tính:"
 
 #: includes/abstracts/abstract-wc-order.php:2356
 #: includes/admin/meta-boxes/views/html-order-items.php:179
@@ -9925,7 +9925,7 @@ msgstr ""
 #: templates/checkout/order-receipt.php:33 templates/checkout/thankyou.php:66
 #: assets/client/blocks/order-confirmation-summary.js:1
 msgid "Total:"
-msgstr ""
+msgstr "Tổng cộng:"
 
 #: includes/abstracts/abstract-wc-order.php:2560
 #: includes/admin/class-wc-admin-dashboard.php:596
@@ -9963,7 +9963,7 @@ msgstr ""
 #: assets/client/admin/chunks/analytics-report-orders.js:1
 msgid "Order"
 msgid_plural "Orders"
-msgstr[0] ""
+msgstr[0] "Đơn hàng"
 
 #: includes/abstracts/abstract-wc-payment-gateway.php:238
 msgid "Return to payments"
@@ -10016,7 +10016,7 @@ msgstr ""
 #: client/blocks/assets/js/previews/products.js:59
 #: client/blocks/assets/js/previews/products.js:60
 msgid "Add to cart"
-msgstr ""
+msgstr "Thêm vào giỏ hàng"
 
 #: includes/abstracts/abstract-wc-product.php:2177
 #: includes/class-wc-embed.php:108 includes/class-wc-product-simple.php:62
@@ -12278,7 +12278,7 @@ msgstr ""
 #: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:46
 #: templates/myaccount/form-edit-account.php:34
 msgid "First name"
-msgstr ""
+msgstr "Tên"
 
 #: includes/admin/class-wc-admin-profile.php:50
 #: includes/admin/class-wc-admin-profile.php:110
@@ -12289,7 +12289,7 @@ msgstr ""
 #: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:52
 #: templates/myaccount/form-edit-account.php:38
 msgid "Last name"
-msgstr ""
+msgstr "Họ"
 
 #: includes/admin/class-wc-admin-profile.php:54
 #: includes/admin/class-wc-admin-profile.php:114
@@ -12433,7 +12433,7 @@ msgstr ""
 #: templates/myaccount/form-edit-account.php:50
 #: templates/myaccount/form-login.php:86
 msgid "Email address"
-msgstr ""
+msgstr "Địa chỉ email"
 
 #: includes/admin/class-wc-admin-profile.php:96
 #: includes/admin/settings/views/settings-tax.php:39
@@ -12483,7 +12483,7 @@ msgstr ""
 #: assets/client/admin/chunks/homescreen.js:1
 #: assets/client/admin/wp-admin-scripts/command-palette.js:2
 msgid "Orders"
-msgstr ""
+msgstr "Đơn hàng"
 
 #: includes/admin/class-wc-admin-reports.php:138
 msgid "Sales by date"
@@ -12771,7 +12771,7 @@ msgstr ""
 #: assets/client/admin/chunks/5875.js:1
 #: assets/client/blocks/wc-shipping-method-pickup-location.js:233
 msgid "Address"
-msgstr ""
+msgstr "Địa chỉ"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:537
 #: includes/admin/class-wc-admin-setup-wizard.php:539
@@ -15039,7 +15039,7 @@ msgstr ""
 #: assets/client/admin/product-editor/index.js:2
 #: assets/client/blocks/order-confirmation-downloads-wrapper.js:1
 msgid "Downloads"
-msgstr ""
+msgstr "Tải về"
 
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:848
 #: includes/class-wc-privacy-exporters.php:142
@@ -16254,7 +16254,7 @@ msgstr ""
 #: packages/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
 #: assets/client/admin/product-editor/index.js:2
 msgid "Add"
-msgstr ""
+msgstr "Thêm"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:87
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:102
@@ -17447,7 +17447,7 @@ msgstr ""
 #: assets/client/admin/wp-admin-scripts/settings-embed.js:2
 #: assets/client/blocks/wc-shipping-method-pickup-location.js:242
 msgid "Save changes"
-msgstr ""
+msgstr "Lưu thay đổi"
 
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:214
 msgid "Add price to all variations that don't have a price"
@@ -17954,7 +17954,7 @@ msgstr ""
 #: assets/client/admin/chunks/analytics-report-downloads.js:1
 #: assets/client/admin/chunks/dashboard-charts.js:1
 msgid "Username"
-msgstr ""
+msgstr "Tên đăng nhập"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:217
 #: includes/admin/settings/class-wc-settings-emails.php:488
@@ -18433,7 +18433,7 @@ msgstr ""
 #: assets/client/blocks/checkout-frontend.js:5
 #: assets/client/blocks/wc-cart-checkout-base-frontend.js:35
 msgid "Checkout"
-msgstr ""
+msgstr "Thanh toán"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:64
 msgid "Enable guest checkout (recommended)"
@@ -18570,7 +18570,7 @@ msgstr ""
 #: includes/customizer/class-wc-shop-customizer.php:822
 #: includes/customizer/class-wc-shop-customizer.php:872
 msgid "Privacy policy"
-msgstr ""
+msgstr "chính sách bảo mật"
 
 #. translators: %s: privacy page link.
 #: includes/admin/settings/class-wc-settings-accounts.php:185
@@ -18899,7 +18899,7 @@ msgstr ""
 #: includes/admin/settings/class-wc-settings-advanced.php:296
 #: includes/class-wc-query.php:147
 msgid "Addresses"
-msgstr ""
+msgstr "Địa chỉ"
 
 #: includes/admin/settings/class-wc-settings-advanced.php:297
 msgid "Endpoint for the \"My account &rarr; Addresses\" page."
@@ -22914,7 +22914,7 @@ msgstr ""
 #: src/Blocks/BlockTypes/ProductButton.php:399
 #: src/Blocks/BlockTypes/ProductButton.php:400
 msgid "View cart"
-msgstr ""
+msgstr "Xem giỏ hàng"
 
 #. translators: %d item count
 #: includes/class-wc-cart-session.php:670
@@ -23732,6 +23732,8 @@ msgid ""
 "This password reset key is for a different user account. Please log out and "
 "try again."
 msgstr ""
+"Mã đặt lại mật khẩu này dành cho một tài khoản khác. Vui lòng đăng xuất và "
+"thử lại."
 
 #: includes/class-wc-form-handler.php:151
 msgid "Please enter a valid Eircode."
@@ -23753,7 +23755,7 @@ msgstr ""
 #: includes/class-wc-form-handler.php:289
 #: templates/myaccount/form-edit-account.php:44
 msgid "Display name"
-msgstr ""
+msgstr "Tên hiển thị"
 
 #: includes/class-wc-form-handler.php:304 includes/wc-user-functions.php:58
 msgid "Please provide a valid email address."
@@ -24038,7 +24040,7 @@ msgstr ""
 #: includes/class-wc-install.php:1147
 msgctxt "Page title"
 msgid "Checkout"
-msgstr ""
+msgstr "Thanh toán"
 
 #: includes/class-wc-install.php:1151
 msgctxt "Page slug"
@@ -25659,7 +25661,7 @@ msgstr ""
 #: includes/class-wc-product-simple.php:75
 #, php-format
 msgid "Add to cart: &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Thêm vào giỏ hàng: &ldquo;%s&rdquo;"
 
 #. translators: %s: Product title
 #: includes/class-wc-product-simple.php:90
@@ -25675,7 +25677,7 @@ msgstr ""
 
 #: includes/class-wc-product-variable.php:79
 msgid "Select options"
-msgstr ""
+msgstr "Tùy chọn"
 
 #. translators: %s: Product title
 #: includes/class-wc-product-variable.php:90
@@ -25692,7 +25694,7 @@ msgstr ""
 #: includes/class-wc-query.php:130
 #, php-format
 msgid "Orders (page %d)"
-msgstr ""
+msgstr "Đơn  (page %d)"
 
 #. translators: %s: order number
 #. translators: %s: order ID
@@ -25709,7 +25711,7 @@ msgstr ""
 #: src/Internal/RestApi/Routes/V4/Settings/PaymentGateways/Schema/BacsGatewaySettingsSchema.php:84
 #: assets/client/admin/chunks/settings-payments-bacs.js:1
 msgid "Account details"
-msgstr ""
+msgstr "Chi tiết tài khoản"
 
 #: includes/class-wc-query.php:157
 msgid "Set password"
@@ -27516,7 +27518,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:157
 msgid "Account details:"
-msgstr ""
+msgstr "Chi tiết tài khoản:"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:158
 msgid ""
@@ -33016,7 +33018,7 @@ msgstr ""
 #: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-v2-controller.php:1549
 msgctxt "Page setting"
 msgid "Checkout"
-msgstr ""
+msgstr "Thanh toán"
 
 #: includes/rest-api/Controllers/Version2/class-wc-rest-system-status-v2-controller.php:1574
 msgctxt "Page setting"
@@ -34268,6 +34270,8 @@ msgstr ""
 msgid ""
 "Are you sure you want to log out? <a href=\"%s\">Confirm and log out</a>"
 msgstr ""
+"Bạn có chắc chắn muốn đăng xuất không? <a href=\"%s\">Xác nhận và đăng "
+"xuất</a>"
 
 #. translators: %s: site name.
 #: includes/shortcodes/class-wc-shortcode-my-account.php:97
@@ -34339,11 +34343,11 @@ msgstr ""
 
 #: includes/wc-account-functions.php:107
 msgid "Dashboard"
-msgstr ""
+msgstr "Bảng điều khiển"
 
 #: includes/wc-account-functions.php:113
 msgid "Log out"
-msgstr ""
+msgstr "Đăng xuất"
 
 #: includes/wc-account-functions.php:266
 msgid "Method"
@@ -41054,7 +41058,7 @@ msgstr ""
 #: assets/client/blocks/mini-cart-contents.js:12
 #: assets/client/blocks/wc-cart-checkout-base-frontend.js:47
 msgid "Subtotal"
-msgstr ""
+msgstr "Tạm tính"
 
 #: src/Blocks/BlockTypes/MiniCartFooterBlock.php:127
 msgid "Shipping, taxes, and discounts calculated at checkout."
@@ -41735,7 +41739,7 @@ msgstr ""
 #: assets/client/blocks/legacy-template.js:4
 #: assets/client/blocks/order-confirmation-shipping-wrapper.js:1
 msgid "Shipping address"
-msgstr ""
+msgstr "Địa chỉ giao hàng"
 
 #: src/Blocks/BlockTypesController.php:201
 #: templates/emails/email-addresses.php:45
@@ -41749,7 +41753,7 @@ msgstr ""
 #: assets/client/blocks/legacy-template.js:4
 #: assets/client/blocks/order-confirmation-billing-wrapper.js:1
 msgid "Billing address"
-msgstr ""
+msgstr "Địa chỉ thanh toán"
 
 #: src/Blocks/BlockTypesController.php:230
 msgid "WooCommerce Product Elements"
@@ -48687,7 +48691,7 @@ msgstr ""
 #: src/Internal/RestApi/Routes/V4/Products/Controller.php:1940
 #: src/StoreApi/Schemas/V1/ProductSchema.php:545
 msgid "Add to cart URL."
-msgstr ""
+msgstr "Thêm vào giỏ hàng URL."
 
 #: src/Internal/RestApi/Routes/V4/Products/Controller.php:1945
 msgid "Add to cart description."
@@ -53276,11 +53280,11 @@ msgstr "Tên đăng nhập hoặc email"
 
 #: templates/global/form-login.php:47 templates/myaccount/form-login.php:51
 msgid "Remember me"
-msgstr ""
+msgstr "Ghi nhớ đăng nhập"
 
 #: templates/global/form-login.php:54 templates/myaccount/form-login.php:57
 msgid "Lost your password?"
-msgstr ""
+msgstr "Quên mật khẩu?"
 
 #. translators: %s: Quantity.
 #: templates/global/quantity-input.php:24
@@ -53336,7 +53340,7 @@ msgstr ""
 #: templates/myaccount/dashboard.php:35
 #, php-format
 msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
-msgstr ""
+msgstr "Xin chào %1$s (không phải %1$s? <a href=\"%2$s\">Đăng xuất</a>)"
 
 #. translators: 1: Orders URL 2: Address URL 3: Account URL.
 #: templates/myaccount/dashboard.php:45
@@ -53346,6 +53350,9 @@ msgid ""
 "orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a "
 "href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
+"Từ bảng điều khiển tài khoản, bạn có thể xem các <a href=\"%1$s\">đơn hàng "
+"gần đây</a>, quản lý <a href=\"%2$s\">địa chỉ thanh toán</a>, và <a "
+"href=\"%3$s\">chỉnh sửa mật khẩu cũng như thông tin tài khoản</a>."
 
 #. translators: 1: Orders URL 2: Addresses URL 3: Account URL.
 #: templates/myaccount/dashboard.php:48
@@ -53355,14 +53362,17 @@ msgid ""
 "orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
 "and <a href=\"%3$s\">edit your password and account details</a>."
 msgstr ""
+"Từ bảng điều khiển tài khoản, bạn có thể xem các <a href=\"%1$s\">đơn hàng "
+"gần đây</a>, quản lý <a href=\"%2$s\">địa chỉ thanh toán và giao nhận</a>, "
+"và <a href=\"%3$s\">chỉnh sửa mật khẩu cũng như thông tin tài khoản</a>."
 
 #: templates/myaccount/downloads.php:42
 msgid "No downloads available yet."
-msgstr ""
+msgstr "Chưa có bản tải về nào."
 
 #: templates/myaccount/downloads.php:42 templates/myaccount/orders.php:121
 msgid "Browse products"
-msgstr ""
+msgstr "Xem danh sách sản phẩm"
 
 #: templates/myaccount/form-add-payment-method.php:60
 msgid ""
@@ -53375,22 +53385,23 @@ msgid ""
 "This will be how your name will be displayed in the account section and in "
 "reviews"
 msgstr ""
+"Tên này sẽ được hiển thị trong phần tài khoản và các bài đánh giá sản phẩm."
 
 #: templates/myaccount/form-edit-account.php:64
 msgid "Password change"
-msgstr ""
+msgstr "Thay đổi mật khẩu"
 
 #: templates/myaccount/form-edit-account.php:67
 msgid "Current password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Mật khẩu hiện tại (để trống nếu không muốn thay đổi)"
 
 #: templates/myaccount/form-edit-account.php:71
 msgid "New password (leave blank to leave unchanged)"
-msgstr ""
+msgstr "Mật khẩu mới (để trống nếu không muốn thay đổi)"
 
 #: templates/myaccount/form-edit-account.php:75
 msgid "Confirm new password"
-msgstr ""
+msgstr "Xác nhận mật khẩu mới"
 
 #: templates/myaccount/form-edit-address.php:46
 msgid "Save address"
@@ -53442,17 +53453,17 @@ msgstr ""
 
 #: templates/myaccount/my-address.php:46
 msgid "The following addresses will be used on the checkout page by default."
-msgstr ""
+msgstr "Các địa chỉ dưới đây sẽ được sử dụng mặc định tại trang thanh toán."
 
 #. translators: %s: Address title
 #: templates/myaccount/my-address.php:67
 #, php-format
 msgid "Add %s"
-msgstr ""
+msgstr "Thêm %s"
 
 #: templates/myaccount/my-address.php:75
 msgid "You have not set up this type of address yet."
-msgstr ""
+msgstr "Bạn chưa thiết lập loại địa chỉ này."
 
 #: templates/myaccount/my-downloads.php:29
 msgid "Available downloads"
@@ -53507,7 +53518,7 @@ msgstr ""
 
 #: templates/myaccount/orders.php:121
 msgid "No order has been made yet."
-msgstr ""
+msgstr "Chưa có đơn hàng nào được tạo."
 
 #. translators: 1: credit card type 2: last 4 digits
 #. translators: %1$s is referring to the payment method brand, %2$s is referring to the last 4 digits of the payment card.
@@ -64819,7 +64830,7 @@ msgstr ""
 #: assets/client/blocks/add-to-cart-with-options-grouped-product-item-selector.js:1
 #: assets/client/blocks/wc-blocks-google-analytics.js:1
 msgid "Add to Cart"
-msgstr ""
+msgstr "Thêm vào Giỏ hàng"
 
 #: assets/client/blocks/add-to-cart-with-options-grouped-product-item.js:1
 #: assets/client/blocks/cart.js:2 assets/client/blocks/checkout.js:2
@@ -65973,7 +65984,7 @@ msgstr ""
 
 #: assets/client/blocks/cart-frontend.js:8 assets/client/blocks/cart.js:31
 msgid "Shopping cart."
-msgstr ""
+msgstr "Giỏ hàng"
 
 #: assets/client/blocks/cart-link.js:1 assets/client/blocks/mini-cart.js:1
 msgid "Cart Icon"
@@ -67722,7 +67733,7 @@ msgstr ""
 #: assets/client/blocks/product-top-rated.js:1
 #: assets/client/blocks/products-by-attribute.js:1
 msgid "Add to Cart button"
-msgstr ""
+msgstr "Thêm vào Giỏ hàng button"
 
 #: assets/client/blocks/handpicked-products.js:1
 #: assets/client/blocks/product-category.js:12
@@ -70582,7 +70593,7 @@ msgstr ""
 #: client/blocks/assets/js/blocks/checkout/block.json
 msgctxt "block title"
 msgid "Checkout"
-msgstr ""
+msgstr "Thanh toán"
 
 #: assets/client/blocks/checkout/block.json
 #: client/blocks/assets/js/blocks/checkout/block.json
