@@ -212,3 +212,19 @@ require_once ASTRA_THEME_DIR . 'inc/abilities/bootstrap.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+
+add_action( 'woocommerce_thankyou_bacs', 'hqstore_vietqr_thankyou', 10 );
+function hqstore_vietqr_thankyou( $order_id ) {
+    $order = wc_get_order( $order_id );
+    $amount = $order->get_total();
+    $description = 'DH' . $order_id; // Nội dung chuyển khoản
+    $bank_id = 'BIDV'; // Mã ngân hàng của bạn
+    $account_no = '8860382942'; // Số tài khoản trong hình của bạn
+    
+    $qr_url = "https://img.vietqr.io/image/{$bank_id}-{$account_no}-compact.png?amount={$amount}&addInfo={$description}&accountName=DIEM%20VIET%20ANH";
+    
+    echo '<div style="text-align: center; margin-top: 20px;">';
+    echo '<h3>Quét mã QR để thanh toán nhanh</h3>';
+    echo '<img src="' . $qr_url . '" style="border: 1px solid #ddd; border-radius: 8px; max-width: 250px;" />';
+    echo '</div>';
+}

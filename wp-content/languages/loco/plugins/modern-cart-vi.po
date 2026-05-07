@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2026-04-16T11:10:46+00:00\n"
-"PO-Revision-Date: 2026-05-03 16:12+0000\n"
+"PO-Revision-Date: 2026-05-07 08:57+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: modern-cart\n"
 "Language: vi\n"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: admin-core/inc/settings-fields.php:142
 msgid "Allow customers to enter a coupon code in the cart to apply discounts."
-msgstr ""
+msgstr "Cho phép khách hàng nhập mã giảm giá trong giỏ hàng để được giảm giá."
 
 #: admin-core/assets/build/settings.js:7
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2026-04-14T10:45:24+00:00\n"
-"PO-Revision-Date: 2026-05-03 15:40+0000\n"
+"PO-Revision-Date: 2026-05-07 09:05+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: woocommerce\n"
 "Language: vi\n"
@@ -5083,7 +5083,7 @@ msgstr ""
 #: assets/client/blocks/add-to-cart-with-options-grouped-product-item-selector.js:1
 #: assets/client/blocks/wc-blocks-google-analytics.js:1
 msgid "Add to Cart"
-msgstr "Thêm vào Giỏ"
+msgstr "Thêm vào Giỏ hàng"
 
 #: includes/abstracts/abstract-wc-product.php:2151
 #: includes/class-wc-product-simple.php:62
@@ -5145,7 +5145,7 @@ msgstr "Mô tả \"Thêm vào giỏ hàng\"."
 
 #: src/Internal/RestApi/Routes/V4/Products/Controller.php:1935
 msgid "Add to cart details."
-msgstr ""
+msgstr "Thêm vào giỏ hàng."
 
 #: src/Internal/RestApi/Routes/V4/Products/Controller.php:1955
 msgid "Add to cart single text."
@@ -5168,19 +5168,19 @@ msgstr "Thêm vào giỏ hàng: &ldquo;%s&rdquo;"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-product-images.php:83
 msgid "Add to gallery"
-msgstr ""
+msgstr "Thêm vào thư viện ảnh"
 
 #: includes/admin/class-wc-admin-menus.php:488
 msgid "Add to menu"
-msgstr ""
+msgstr "Thêm vào menu"
 
 #: assets/client/admin/chunks/marketplace.js:1
 msgid "Add to Store"
-msgstr ""
+msgstr "Thêm vào Cửa hàng"
 
 #: assets/client/admin/chunks/marketplace.js:1
 msgid "Add to store"
-msgstr ""
+msgstr "Thêm vào cửa hàng"
 
 #: assets/client/admin/product-editor/blocks/product-fields/variation-options/edit.js:1
 #: assets/client/admin/product-editor/index.js:2
@@ -10857,7 +10857,7 @@ msgstr ""
 #: client/blocks/assets/js/atomic/blocks/product-elements/button/block.json
 msgctxt "block title"
 msgid "Add to Cart Button"
-msgstr ""
+msgstr "Thêm vào Giỏ hàng"
 
 #: assets/client/blocks/add-to-cart-form/block.json
 #: client/blocks/assets/js/blocks/add-to-cart-form/block.json
@@ -18109,7 +18109,7 @@ msgstr ""
 #: assets/client/admin/chunks/analytics-report-revenue.js:1
 #: assets/client/blocks/legacy-template.js:4
 msgid "Date"
-msgstr ""
+msgstr "Ngày"
 
 #: assets/client/admin/chunks/analytics-report-customers.js:1
 msgctxt "date"
@@ -18243,7 +18243,7 @@ msgstr ""
 #: templates/checkout/order-receipt.php:29 templates/checkout/thankyou.php:54
 #: assets/client/blocks/order-confirmation-summary.js:1
 msgid "Date:"
-msgstr ""
+msgstr "Ngày: "
 
 #: i18n/states.php:1536
 msgid "Davao del Norte"
@@ -18448,7 +18448,7 @@ msgstr ""
 #: assets/client/blocks/all-products.js:12
 #: assets/client/blocks/catalog-sorting.js:1
 msgid "Default sorting"
-msgstr ""
+msgstr "Thứ tự mặc định"
 
 #: includes/customizer/class-wc-shop-customizer.php:328
 #: includes/customizer/class-wc-shop-customizer.php:499
@@ -41034,7 +41034,7 @@ msgstr ""
 #: assets/client/blocks/legacy-template.js:4
 #: assets/client/blocks/order-confirmation-totals-wrapper.js:1
 msgid "Order details"
-msgstr ""
+msgstr "Chi tiết đơn hàng"
 
 #: includes/admin/meta-boxes/class-wc-meta-box-order-actions.php:149
 msgid "Order details manually sent to customer."
@@ -41238,11 +41238,11 @@ msgstr ""
 #: assets/client/admin/chunks/analytics-report-downloads.js:1
 #: assets/client/admin/chunks/analytics-report-orders.js:1
 msgid "Order Number"
-msgstr ""
+msgstr "Mã đơn hàng"
 
 #: assets/client/blocks/legacy-template.js:4
 msgid "Order number"
-msgstr ""
+msgstr "Mã đơn hàng"
 
 #: src/StoreApi/Schemas/V1/CheckoutSchema.php:109
 msgid "Order number used for display."
@@ -41251,18 +41251,18 @@ msgstr ""
 #: src/Admin/API/Reports/Downloads/Controller.php:189
 #: src/Admin/API/Reports/Orders/Controller.php:143
 msgid "Order Number."
-msgstr ""
+msgstr "Mã đơn hàng."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1005
 #: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1154
 #: src/Internal/RestApi/Routes/V4/Orders/Schema/OrderSchema.php:111
 msgid "Order number."
-msgstr ""
+msgstr "Mã đơn hàng."
 
 #: templates/checkout/order-receipt.php:25 templates/checkout/thankyou.php:49
 #: assets/client/blocks/order-confirmation-summary.js:1
 msgid "Order number:"
-msgstr ""
+msgstr "Mã đơn hàng:"
 
 #: assets/client/admin/chunks/analytics-report-downloads.js:1
 #: assets/client/admin/chunks/dashboard-charts.js:1
@@ -41881,7 +41881,7 @@ msgstr ""
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:382
 msgid "Our bank details"
-msgstr ""
+msgstr "Thông tin chuyển khoản"
 
 #: assets/client/admin/chunks/core-profiler.js:1
 msgid "Our favorite color is purple "
@@ -42858,11 +42858,11 @@ msgstr ""
 #: src/Internal/EmailEditor/PersonalizationTags/OrderTagsProvider.php:173
 #: assets/client/blocks/wc-blocks-google-analytics.js:1
 msgid "Payment Method"
-msgstr ""
+msgstr "Phương thức Thanh toán"
 
 #: src/Internal/ReceiptRendering/ReceiptRenderingEngine.php:390
 msgid "Payment method"
-msgstr ""
+msgstr "Phương thức thanh toán"
 
 #: includes/class-wc-form-handler.php:600
 msgid "Payment method deleted."
@@ -42919,7 +42919,7 @@ msgstr ""
 #: templates/checkout/thankyou.php:72
 #: assets/client/blocks/order-confirmation-summary.js:1
 msgid "Payment method:"
-msgstr ""
+msgstr "Phương thức thanh toán:"
 
 #: assets/client/admin/wp-admin-scripts/settings-embed.js:2
 msgid "Payment Methods"
@@ -46644,7 +46644,7 @@ msgstr ""
 #: assets/client/blocks/wc-entities.js:1
 #: client/blocks/assets/js/editor-components/products-control/index.js:37
 msgid "Products"
-msgstr ""
+msgstr "Sản phẩm"
 
 #: assets/client/admin/chunks/analytics-report-downloads.js:1
 #: assets/client/admin/chunks/analytics-report-orders.js:1
@@ -49350,7 +49350,7 @@ msgstr ""
 
 #: includes/class-wc-ajax.php:379 templates/cart/cart-empty.php:35
 msgid "Return to shop"
-msgstr ""
+msgstr "Quay lại cửa hàng"
 
 #: assets/client/admin/components/index.js:2
 msgid "Return to the date input field."
@@ -55689,11 +55689,11 @@ msgstr ""
 
 #: includes/wc-template-functions.php:1695
 msgid "Sort by average rating"
-msgstr ""
+msgstr "Sắp xếp theo điểm đánh giá"
 
 #: includes/wc-template-functions.php:1696
 msgid "Sort by latest"
-msgstr ""
+msgstr "Mới nhất"
 
 #: includes/customizer/class-wc-shop-customizer.php:331
 #: includes/customizer/class-wc-shop-customizer.php:502
@@ -55702,7 +55702,7 @@ msgstr ""
 
 #: includes/wc-template-functions.php:1694
 msgid "Sort by popularity"
-msgstr ""
+msgstr "Sắp xếp theo mức độ phổ biến"
 
 #: includes/customizer/class-wc-shop-customizer.php:332
 #: includes/customizer/class-wc-shop-customizer.php:503
@@ -55716,11 +55716,11 @@ msgstr ""
 
 #: includes/wc-template-functions.php:1698
 msgid "Sort by price: high to low"
-msgstr ""
+msgstr "Giá: Cao đến Thấp"
 
 #: includes/wc-template-functions.php:1697
 msgid "Sort by price: low to high"
-msgstr ""
+msgstr "Giá: Thấp đến Cao"
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-taxes-v1-controller.php:776
 msgid "Sort by tax class."
@@ -58846,7 +58846,7 @@ msgstr ""
 #: assets/client/blocks/legacy-template.js:4
 #: assets/client/blocks/order-confirmation-status.js:1
 msgid "Thank you. Your order has been received."
-msgstr ""
+msgstr "Cảm ơn bạn. Đơn hàng của bạn đã được tiếp nhận."
 
 #: includes/admin/class-wc-admin.php:299
 msgid "Thanks :)"
@@ -59358,7 +59358,7 @@ msgstr ""
 
 #: includes/class-wc-cart-session.php:683
 msgid "The cart has been filled with the items from your previous order."
-msgstr ""
+msgstr "Giỏ hàng đã được điền đầy đủ các mặt hàng từ đơn hàng trước của bạn."
 
 #: assets/client/blocks/cart-frontend.js:8
 #: client/blocks/assets/js/blocks/cart/block.js:71
@@ -64281,7 +64281,7 @@ msgstr ""
 #: assets/client/blocks/wc-cart-checkout-base-frontend.js:31
 #: assets/client/blocks/wc-cart-checkout-base-frontend.js:35
 msgid "Total"
-msgstr ""
+msgstr "Tổng cộng"
 
 #: src/StoreApi/Schemas/V1/CartFeeSchema.php:50
 #: src/StoreApi/Schemas/V1/OrderFeeSchema.php:50
@@ -69510,7 +69510,7 @@ msgstr ""
 msgctxt "with first and last result"
 msgid "Showing %1$d&ndash;%2$d of %3$d result"
 msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
-msgstr[0] ""
+msgstr[0] "Hiển thị %1$d–%2$d trong %3$d kết quả"
 
 #: src/Internal/Admin/Notes/CustomizeStoreWithBlocks.php:73
 msgid ""
@@ -71224,7 +71224,7 @@ msgstr ""
 
 #: includes/wc-template-functions.php:4255
 msgid "Your cart is currently empty."
-msgstr ""
+msgstr "Giỏ hàng của bạn hiện đang trống."
 
 #: includes/admin/settings/class-wc-settings-shipping.php:348
 #: includes/admin/settings/class-wc-settings-shipping.php:394
