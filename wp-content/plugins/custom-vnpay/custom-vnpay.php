@@ -96,7 +96,7 @@ function custom_init_vnpay_gateway()
 
             $return_url = home_url('/wc-api/custom_vnpay');
 
-            $vnp_TxnRef = $order_id;
+            $vnp_TxnRef = $order_id . "_" . time();
 
             $vnp_OrderInfo = "Thanh toan don hang #" . $order_id;
 
@@ -173,42 +173,50 @@ function custom_init_vnpay_gateway()
 
         public function vnpay_return_handler()
         {
+            if (!isset($_GET['vnp_ResponseCode'])) {
+                return;
+            }
 
-            if (isset($_GET['vnp_ResponseCode'])) {
+            $txn_ref = $_GET['vnp_TxnRef'];
 
-                $order_id = $_GET['vnp_TxnRef'];
+            $parts = explode('_', $txn_ref);
 
-                $order = wc_get_order($order_id);
+            $order_id = $parts[0];
 
-                if ($_GET['vnp_ResponseCode'] == '00') {
+            $order = wc_get_order($order_id);
 
-                    $order->payment_complete();
+            if (!$order) {
+                wp_die('Không tìm thấy đơn hàng');
+            }
 
-                    $order->add_order_note(
-                        'Thanh toán VNPAY thành công'
-                    );
+            if ($_GET['vnp_ResponseCode'] == '00') {
 
-                    WC()->cart->empty_cart();
+                $order->payment_complete();
 
-                    wp_redirect(
-                        $this->get_return_url($order)
-                    );
+                $order->add_order_note(
+                    'Thanh toán VNPAY thành công'
+                );
 
-                    exit;
+                WC()->cart->empty_cart();
 
-                } else {
+                wp_redirect(
+                    $this->get_return_url($order)
+                );
 
-                    $order->update_status(
-                        'failed',
-                        'Thanh toán thất bại'
-                    );
+                exit;
 
-                    wp_redirect(
-                        wc_get_checkout_url()
-                    );
+            } else {
 
-                    exit;
-                }
+                $order->update_status(
+                    'failed',
+                    'Thanh toán thất bại'
+                );
+
+                wp_redirect(
+                    wc_get_checkout_url()
+                );
+
+                exit;
             }
         }
     }
