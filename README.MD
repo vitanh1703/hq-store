@@ -584,6 +584,8 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
   <img src="images/chinh_sach_doi_tra.jpg" width="900">
 </p>
 
+## Link video demo
+https://drive.google.com/drive/folders/1P5X7JkZjSK5np0TOwulCxAqna2wGdrwh?usp=drive_link
 ## © Bản quyền
 
 **© 2026 H&Q Store - Đồ án WordPress Nâng Cao.**
