@@ -17,11 +17,11 @@ Hệ thống hỗ trợ đầy đủ quy trình mua sắm trực tuyến: xem s�
 
 ## 👥 Thành viên thực hiện
 
-| STT | Họ và tên | Mã sinh viên | Vai trò |
-|-----|-----------|--------------|---------|
-| 1 | **Diêm Việt Anh** | 23810310083 | Nhóm trưởng |
-| 2 | **Nguyễn Thị Hảo** | 23810310152 | Thành viên |
-| 2 | **Đặng Thị Quỳnh** | 23810310156 | Thành viên |
+| STT | Họ và tên | Mã sinh viên | Vai trò | Nhiẹm vụ |
+|-----|-----------|--------------|---------|----------|
+| 1 | **Diêm Việt Anh** | 23810310083 | Nhóm trưởng |Tích hợp cổng thanh toán VNPAY Sandbox, quản trị cơ sở dữ liệu MySQL và xây dựng các phương thức thanh toán như Mã QR, COD|
+| 2 | **Nguyễn Thị Hảo** | 23810310152 | Thành viên | Cấu hình hệ thống WooCommerce, quản lý danh mục và biến thể sản phẩm, đồng thời thiết lập mã giảm giá và đăng nhập mạng xã hội|
+| 2 | **Đặng Thị Quỳnh** | 23810310156 | Thành viên | Thiết kế giao diện website bằng Elementor, tùy biến bố cục Header/Footer và thực hiện Việt hóa toàn bộ ngôn ngữ trên hệ thống|
 
 ---
 
