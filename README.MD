@@ -1,10 +1,5 @@
 # 🛍️ H&Q STORE - HỆ THỐNG BÁN QUẦN ÁO TRỰC TUYẾN
 
-![WordPress](https://img.shields.io/badge/WordPress-6.x-blue)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-Ecommerce-purple)
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-
 ## 🌐 Đồ án môn học: Xây dựng Website trên nền tảng Mã nguồn mở WordPress
 
 H&Q Store là hệ thống website bán quần áo trực tuyến được xây dựng trên nền tảng **WordPress Nâng Cao**. Dự án sử dụng các plugin phổ biến trong hệ sinh thái WordPress như **WooCommerce**, **Elementor**, **Astra Theme** kết hợp với các đoạn mã tùy chỉnh để xây dựng một website thương mại điện tử hoàn chỉnh.
@@ -15,8 +10,8 @@ Hệ thống hỗ trợ đầy đủ quy trình mua sắm trực tuyến: xem s�
 
 ## 🔗 Demo & Hosting
 
-- **Website URL:** `[Thêm link website H&Q Store tại đây]`
-- **Tài khoản Admin:** `[Thêm tài khoản admin tại đây]`
+- **Website URL:** `hqstore.gt.tc`
+- **Tài khoản Admin:** `admin`/`123456`
 
 ---
 
@@ -270,18 +265,10 @@ hq-store/
 │   │   └── woocommerce-payments/
 │   │
 │   └── uploads/
-│       ├── products/
-│       ├── banners/
-│       └── news/
 │
 ├── database/
 │   └── hq_store.sql
 │
-├── docs/
-│   ├── report.docx
-│   ├── use-case-diagram.png
-│   ├── activity-diagram.png
-│   └── database-diagram.png
 │
 └── README.md
 ```
@@ -390,7 +377,6 @@ Một số chức năng cần kiểm thử sau khi cài đặt:
 - Thêm sản phẩm mới.
 - Sửa thông tin sản phẩm.
 - Tạo mã giảm giá.
-- Kiểm tra chức năng wishlist.
 - Kiểm tra chức năng đánh giá sản phẩm.
 
 ---
@@ -413,8 +399,7 @@ Sau quá trình xây dựng, hệ thống H&Q Store đạt được các kết q
 
 Trong tương lai, hệ thống có thể được phát triển thêm các chức năng:
 
-- Tích hợp thanh toán trực tuyến qua VNPay, Momo, ZaloPay hoặc PayOS.
-- Tích hợp chatbot tư vấn chọn size và phối đồ.
+- Tích hợp thanh toán trực tuyến qua VNPay.
 - Xây dựng hệ thống gợi ý sản phẩm dựa trên lịch sử mua hàng.
 - Phát triển hệ thống tích điểm thành viên.
 - Tích hợp theo dõi vận chuyển đơn hàng.
