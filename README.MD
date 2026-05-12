@@ -410,13 +410,179 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 
 ---
 
-## 📌 Ghi chú
-
-- Đây là đồ án phục vụ mục đích học tập.
-- Một số chức năng có thể được tùy chỉnh thêm tùy theo yêu cầu của giảng viên.
-- Khi triển khai thực tế cần bổ sung các yếu tố bảo mật, sao lưu dữ liệu và tối ưu hiệu năng.
+# 📸 Hình ảnh minh họa hệ thống H&Q STORE
 
 ---
+
+## 🏠 Trang chủ
+
+<p align="center">
+  <img src="images/trang_chu.png" width="900">
+</p>
+
+---
+
+## 🛍️ Cửa hàng sản phẩm
+
+<p align="center">
+  <img src="images/cua_hang.png" width="900">
+</p>
+
+---
+
+## 📄 Chi tiết sản phẩm
+
+<p align="center">
+  <img src="images/chi_tiet_sp.png" width="900">
+</p>
+
+---
+
+## 🛒 Giỏ hàng
+
+<p align="center">
+  <img src="images/gio_hang.png" width="900">
+</p>
+
+---
+
+## 💳 Thanh toán COD
+
+<p align="center">
+  <img src="images/thanh_toan_COD.png" width="900">
+</p>
+
+---
+
+## 💳 Thanh toán mã QR
+
+<p align="center">
+  <img src="images/thanh_quan_ma-qr.png" width="900">
+</p>
+
+---
+
+## 💳 Thanh toán VNPay
+
+<p align="center">
+  <img src="images/thanh_toan_vnpay.png" width="900">
+</p>
+
+---
+
+## ✅ Thanh toán thành công
+
+<p align="center">
+  <img src="images/thanh_toan_thanh_cong.png" width="900">
+</p>
+
+---
+
+## 👤 Đăng nhập / Đăng ký
+
+<p align="center">
+  <img src="images/dang_nhap_dang_ki.png" width="900">
+</p>
+
+---
+
+## 📦 Theo dõi đơn hàng
+
+<p align="center">
+  <img src="images/theo_doi_don_hang.png" width="900">
+</p>
+
+---
+
+## 👤 Thông tin tài khoản
+
+<p align="center">
+  <img src="images/thong_tin_tk.png" width="900">
+</p>
+
+---
+
+## ℹ️ Trang giới thiệu
+
+<p align="center">
+  <img src="images/gioi_thieu.png" width="900">
+</p>
+
+---
+
+## 📞 Trang liên hệ
+
+<p align="center">
+  <img src="images/lien_he.png" width="900">
+</p>
+
+---
+
+# 🔧 Chức năng quản trị
+
+## 📊 Phân tích tổng quan
+
+<p align="center">
+  <img src="images/phan_tich_tong_quan.png" width="900">
+</p>
+
+---
+
+## 📦 Quản lý sản phẩm
+
+<p align="center">
+  <img src="images/quan_li_sp.png" width="900">
+</p>
+
+---
+
+## ➕ Thêm sản phẩm
+
+<p align="center">
+  <img src="images/them_sp.png" width="900">
+</p>
+
+---
+
+## ✏️ Chỉnh sửa sản phẩm
+
+<p align="center">
+  <img src="images/chinh_sua_sp.png" width="900">
+</p>
+
+---
+
+## 📰 Quản lý trang
+
+<p align="center">
+  <img src="images/quan_li_trang.png" width="900">
+</p>
+
+---
+
+## 🎟️ Quản lý giảm giá
+
+<p align="center">
+  <img src="images/quan_li_giam_gia.png" width="900">
+</p>
+
+---
+
+# 📜 Chính sách website
+
+## 🔒 Chính sách bảo mật
+
+<p align="center">
+  <img src="images/chinh_sach_bao_mat.png" width="900">
+</p>
+
+---
+
+## 🔄 Chính sách đổi trả
+
+<p align="center">
+  <img src="images/chinh_sach_doi_tra.png" width="900">
+</p>
 
 ## © Bản quyền
 
