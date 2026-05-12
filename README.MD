@@ -481,7 +481,7 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 ## 👤 Đăng nhập / Đăng ký
 
 <p align="center">
-  <img src="images/dang_nhap_dang_ki.png" width="900">
+  <img src="images/dang_nhap dang_ki.png" width="900">
 </p>
 
 ---
@@ -523,7 +523,7 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 ## 📊 Phân tích tổng quan
 
 <p align="center">
-  <img src="images/phan_tich_tong_quan.png" width="900">
+  <img src="images/phan_tich_tong_quan.jpg" width="900">
 </p>
 
 ---
@@ -531,7 +531,7 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 ## 📦 Quản lý sản phẩm
 
 <p align="center">
-  <img src="images/quan_li_sp.png" width="900">
+  <img src="images/quan_li_sp.jpg" width="900">
 </p>
 
 ---
@@ -539,7 +539,7 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 ## ➕ Thêm sản phẩm
 
 <p align="center">
-  <img src="images/them_sp.png" width="900">
+  <img src="images/them_sp.jpg" width="900">
 </p>
 
 ---
@@ -547,7 +547,7 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 ## ✏️ Chỉnh sửa sản phẩm
 
 <p align="center">
-  <img src="images/chinh_sua_sp.png" width="900">
+  <img src="images/chinh_sua_sp.jpg" width="900">
 </p>
 
 ---
@@ -555,7 +555,7 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 ## 📰 Quản lý trang
 
 <p align="center">
-  <img src="images/quan_li_trang.png" width="900">
+  <img src="images/quan_li_trang.jpg" width="900">
 </p>
 
 ---
@@ -563,7 +563,7 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 ## 🎟️ Quản lý giảm giá
 
 <p align="center">
-  <img src="images/quan_li_giam_gia.png" width="900">
+  <img src="images/quan_li_giam_gia.jpg" width="900">
 </p>
 
 ---
@@ -573,7 +573,7 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 ## 🔒 Chính sách bảo mật
 
 <p align="center">
-  <img src="images/chinh_sach_bao_mat.png" width="900">
+  <img src="images/chinh_sach_bao_mat.jpg" width="900">
 </p>
 
 ---
@@ -581,7 +581,7 @@ Trong tương lai, hệ thống có thể được phát triển thêm các ch�
 ## 🔄 Chính sách đổi trả
 
 <p align="center">
-  <img src="images/chinh_sach_doi_tra.png" width="900">
+  <img src="images/chinh_sach_doi_tra.jpg" width="900">
 </p>
 
 ## © Bản quyền
